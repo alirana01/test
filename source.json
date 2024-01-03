@@ -1,6 +1,6 @@
 {
   "name": "MyCustomSource",
-  "identifier": "com.myname.mysource",
+  "identifier": "com.google.ios.youtube",
   "sourceURL": "https://raw.githubusercontent.com/alirana01/test/main/source.json",
   "apps": [
     {
@@ -38,8 +38,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png",
-        "https://myapp.com/assets/uYoutube_screen2.png"
+        "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png"
       ],
       "beta": false
     }
