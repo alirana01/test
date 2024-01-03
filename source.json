@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/alirana01/test/main/source.json",
   "apps": [
     {
-      "downloadURL": "https://github.com/alirana01/test/releases/download/v1/uYouPlus_18.14.1_3.0.ipa"
+      "downloadURL": "https://github.com/alirana01/test/releases/download/v1/uYouPlus_18.14.1_3.0.ipa",
       "name": "UYoutube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "My Name",
