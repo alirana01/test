@@ -17,7 +17,7 @@
         }
       ],
       "localizedDescription": "UYoutube lets you explore a world of videos and music with ease. Enjoy top-notch performance and cool graphics.",
-      "iconURL": "https://myapp.com/assets/uYoutube_icon.png",
+      "iconURL": "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png",
       "tintColor": "8A28F7",
       "permissions": [
         {
@@ -34,7 +34,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://myapp.com/assets/uYoutube_screen1.png",
+        "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png",
         "https://myapp.com/assets/uYoutube_screen2.png"
       ],
       "beta": false
