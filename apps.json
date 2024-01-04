@@ -1,16 +1,20 @@
 {
+  "name": "MySideStoreSource",
+  "identifier": "com.google.ios.youtube",
+  "sourceURL": "https://raw.githubusercontent.com/alirana01/test/main/source.json",
   "apps": [
     {
-      "name": "UYoutube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "My Name",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore",
       "subtitle": "Enjoy Unlimited Videos and Music.",
       "versions": [
         {
-          "version": "18.14.1",
-          "date": "2024-01-03",
+          "version": "0.5.4",
+          "date": "2024-01-03T00:00:00Z",
           "localizedDescription": "Improved video streaming with new features and bug fixes.",
-          "downloadURL": "https://github.com/alirana01/test/releases/download/v1/uYouPlus_18.14.1_3.0.ipa",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
           "size": 90500,
           "minOSVersion": "12.0",
           "maxOSVersion": "14.3"
@@ -34,8 +38,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png",
-        "https://myapp.com/assets/uYoutube_screen2.png"
+        "https://github.com/alirana01/test/releases/download/v1/free-youtube-logo-icon-2431-thumb.png"
       ],
       "beta": false
     }
